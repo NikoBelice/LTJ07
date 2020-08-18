@@ -88,8 +88,8 @@ show_related = {docs = false, page = false, post = false, project = true, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "til60@pitt.edu"
-phone = ""
+# email = "til60@pitt.edu"
+# phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )

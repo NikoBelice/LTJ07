@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tianjian Liang
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pittsburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Protein engineering
+- Antibody design
 - Information Retrieval
 
 education:
@@ -33,9 +33,9 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S. in School of Pharmaceutical Sciences
+    institution: Jiangnan University Wuxi,China
+    year: 2015/09-2019/06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

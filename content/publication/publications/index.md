@@ -16,12 +16,10 @@ publishDate: 2020-07-27T09:56:29-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Brief Bioinform"
 publication_short: ""
 
 abstract: ""
-
-journal: "Brief Bioinform"
 
 # Summary. An optional shortened abstract.
 summary: ""

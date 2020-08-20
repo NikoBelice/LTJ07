@@ -7,7 +7,7 @@ date: 2020
 doi: "10.1093/bib/bbaa155"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020
+publishDate: 2020-07-27
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Publications"
-authors: []
+title: "Virus-CKB: an integrated bioinformatics platform and analysis resource for COVID-19 research"
+authors: [Feng, Z. and Chen, M. and Liang, T. and Shen, M. and Chen, H. and Xie, X. Q.]
 date: 2020-08-20T09:56:29-04:00
 doi: ""
 
@@ -13,7 +13,7 @@ publishDate: 2020-08-20T09:56:29-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

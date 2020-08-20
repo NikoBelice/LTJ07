@@ -3,6 +3,7 @@
 
 title: "Virus-CKB: an integrated bioinformatics platform and analysis resource for COVID-19 research"
 authors: [Feng, Z. and Chen, M. and Liang, T. and Shen, M. and Chen, H. and Xie, X. Q.]
+journal = [Brief Bioinform]
 date: 2020--T09:56:29-04:00
 doi: "10.1093/bib/bbaa155"
 
